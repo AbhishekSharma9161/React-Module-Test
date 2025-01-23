@@ -1,5 +1,3 @@
-# Cuvette_Assesment_Pocket_Notes
-
 # Notes App
 
 - **Create Notes**: Users can easily create their notes.
